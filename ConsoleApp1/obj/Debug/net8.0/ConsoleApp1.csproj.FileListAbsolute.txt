@@ -1,0 +1,14 @@
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

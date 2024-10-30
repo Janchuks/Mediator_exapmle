@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2412829_002D7ce8_002D4548_002D99f6_002D75e96d421dc7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RequestBananas_ReturnsIntOfRequestedBananas" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::TestProject1.CostumerTests.RequestBananas_ReturnsIntOfRequestedBananas&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreTests.CheckInventory_returnsInt&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreTests.SellBananas_subtractsFromBananaCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreTests.RecieveBananas_AddsToBananaCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.SupplierTests.SupplyBananas_StoreRecievesBananas&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_NotEnoughBananasForCostumer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_RestockIsRequested&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_RestockIsRequested_BananasInStoreAreLessThanRequested&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_RestockIsRequested_BananasInStoreAre0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_ShouldDecreaseBananaCount_WhenBananasAreAvailable&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_StoreRunsOutOfBananas&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_BananasHaveBeenSold&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_BananasHaveBeenRestocked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_BananasHaveBeenRestocked_storeHadLessThanRequested&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_ShouldCallSupplierSupplyBananas_WhenInventoryIsLow&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_CallsSupplierWhenBananasAre0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.StoreMediatorTests.ProcessOrder_SupplierIsNotCalled&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.Program_FullIntegration_Tests.Main_ShouldProcessOrder_WhenValidInputIsProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.Program_FullIntegration_Tests.Main_ShouldNotProcessOrder_WhenNegativeInputIsProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.Program_FullIntegration_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::09AAD5B7-E8D4-4C0B-B023-85F90A656063::net8.0::BananaShopTests.CostumerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

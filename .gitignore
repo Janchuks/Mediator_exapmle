@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Main_UI_window/bin/Debug/net8.0-windows/Main_UI_window.exe
+/Main_UI_window/bin/Debug/net8.0-windows/Main_UI_window.pdb
+/Main_UI_window/bin/Debug/net8.0-windows/Main_UI_window.runtimeconfig.json

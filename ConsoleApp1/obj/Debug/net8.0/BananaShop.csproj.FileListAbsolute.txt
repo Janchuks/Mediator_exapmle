@@ -1,0 +1,15 @@
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\BananaShop.exe
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\BananaShop.deps.json
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\BananaShop.runtimeconfig.json
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\BananaShop.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\bin\Debug\net8.0\BananaShop.pdb
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.AssemblyInfoInputs.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.AssemblyInfo.cs
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.csproj.CoreCompileInputs.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.sourcelink.json
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\refint\BananaShop.dll
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.pdb
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\BananaShop.genruntimeconfig.cache
+C:\Users\Agnese un Jana\Documents\Mediator_project\Mediator_exapmle\ConsoleApp1\obj\Debug\net8.0\ref\BananaShop.dll
