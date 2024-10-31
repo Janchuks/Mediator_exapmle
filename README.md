@@ -1,5 +1,7 @@
 # Banana Store App
 
+https://www.canva.com/design/DAGUrSj8ppo/msJmT-u00Fn8FCCKYqOmwA/edit?utm_content=DAGUrSj8ppo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Overview
 
 The Banana Store App is a simple console application that simulates a banana store's operations, including processing customer orders, checking inventory, and handling restocking from a supplier. The application utilizes a mediator pattern to manage the interactions between the store, supplier, and customer.
